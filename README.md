@@ -1,4 +1,5 @@
-# SolarGeneratedElectricityAnalysis
+# Solar Generated Electricity Analysis
+## Task At Hand
 Read the background document that describes the scenarios that need to be modelled and documented for this project.
 
 Construct a model that produces the following calculations and charts. You should ensure that your model contains appropriate self-checks and that you have performed reasonableness checks at each stage of your calculations.
